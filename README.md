@@ -3,6 +3,6 @@
 2. 修改了部分逻辑，修改了部分bug，[MeetMusic](https://github.com/lijunyandev/MeetMusic)issue中的bug和我在使用中发现的bug。
 3. 删除了启动图相关的代码，因为每日一图的api已经无法使用了。
 ## 部分图片
-![](https://github.com/afsfvr/MusicPlay/app/screenshot/1.jpg)
-![](https://github.com/afsfvr/MusicPlay/app/screenshot/2.jpg)
-![](https://github.com/afsfvr/MusicPlay/app/screenshot/3.jpg)
+![](https://github.com/afsfvr/MusicPlay/tree/main/app/screenshot/1.jpg)
+![](https://github.com/afsfvr/MusicPlay/tree/main/app/screenshot/2.jpg)
+![](https://github.com/afsfvr/MusicPlay/tree/main/app/screenshot/3.jpg)
