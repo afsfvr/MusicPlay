@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.musicplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-79
+11-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:6:5-80
+12-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:7:5-76
+13-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:7:22-74
+14    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+14-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:8:5-77
+14-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:8:22-75
+15
+16    <application
+16-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:10:5-85:19
+17        android:name="com.example.musicplayer.util.MyApplication"
+17-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:11:13-47
+18        android:allowBackup="true"
+18-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:12:13-39
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:13:13-47
+22        android:label="@string/app_name"
+22-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:14:13-45
+23        android:requestLegacyExternalStorage="true"
+23-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:15:13-56
+24        android:screenOrientation="portrait"
+24-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:16:13-49
+25        android:supportsRtl="true"
+25-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:17:13-39
+26        android:theme="@style/AppTheme" >
+26-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:18:13-44
+27        <activity android:name="com.example.musicplayer.activity.ChooseDirActivity" >
+27-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:19:9-20:20
+27-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:19:19-61
+28        </activity>
+29        <activity
+29-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:21:9-29:20
+30            android:name="com.example.musicplayer.activity.WelcomeActivity"
+30-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:22:17-57
+31            android:screenOrientation="portrait" >
+31-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:23:17-53
+32            <intent-filter>
+32-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:24:13-28:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:25:17-68
+33-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:27:17-76
+35-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:27:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:30:9-33:55
+39            android:name="com.example.musicplayer.activity.HomeActivity"
+39-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:31:17-54
+40            android:launchMode="singleTask"
+40-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:32:17-48
+41            android:screenOrientation="portrait" />
+41-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:33:17-53
+42        <activity
+42-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:34:9-38:55
+43            android:name="com.example.musicplayer.activity.ScanActivity"
+43-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:35:17-54
+44            android:label="@string/scan_music"
+44-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:36:17-51
+45            android:launchMode="singleTop"
+45-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:37:17-47
+46            android:screenOrientation="portrait" />
+46-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:38:17-53
+47        <activity
+47-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:39:9-43:55
+48            android:name="com.example.musicplayer.activity.LocalMusicActivity"
+48-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:40:17-60
+49            android:label="@string/local_music"
+49-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:41:17-52
+50            android:launchMode="singleTask"
+50-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:42:17-48
+51            android:screenOrientation="portrait" />
+51-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:43:17-53
+52
+53        <service
+53-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:45:9-48:42
+54            android:name="com.example.musicplayer.service.MusicPlayerService"
+54-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:46:17-59
+55            android:enabled="true"
+55-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:47:17-39
+56            android:exported="true" />
+56-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:48:17-40
+57
+58        <receiver
+58-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:50:9-53:42
+59            android:name="com.example.musicplayer.receiver.PlayerManagerReceiver"
+59-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:51:17-63
+60            android:enabled="true"
+60-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:52:17-39
+61            android:exported="true" />
+61-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:53:17-40
+62        <receiver
+62-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:54:9-61:20
+63            android:name="com.example.musicplayer.receiver.HeadsetReceiver"
+63-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:55:17-57
+64            android:enabled="true"
+64-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:56:17-39
+65            android:exported="true" >
+65-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:57:17-40
+66            <intent-filter android:priority="2147483647" >
+66-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:58:13-60:29
+66-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:58:28-57
+67                <action android:name="android.intent.action.MEDIA_BUTTON" />
+67-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:59:17-76
+67-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:59:25-74
+68            </intent-filter>
+69        </receiver>
+70
+71        <activity
+71-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:63:9-67:63
+72            android:name="com.example.musicplayer.activity.PlayActivity"
+72-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:64:17-54
+73            android:launchMode="singleTop"
+73-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:65:17-47
+74            android:screenOrientation="portrait"
+74-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:66:17-53
+75            android:theme="@style/PlaylistActivityTheme" />
+75-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:67:17-61
+76        <activity
+76-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:68:9-71:55
+77            android:name="com.example.musicplayer.activity.LastMyloveActivity"
+77-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:69:17-60
+78            android:label="@string/last_play"
+78-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:70:17-50
+79            android:screenOrientation="portrait" />
+79-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:71:17-53
+80        <activity
+80-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:72:9-75:63
+81            android:name="com.example.musicplayer.activity.PlaylistActivity"
+81-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:73:17-58
+82            android:screenOrientation="portrait"
+82-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:74:17-53
+83            android:theme="@style/PlaylistActivityTheme" />
+83-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:75:17-61
+84        <activity
+84-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:76:9-79:55
+85            android:name="com.example.musicplayer.activity.ModelActivity"
+85-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:77:17-55
+86            android:launchMode="singleTop"
+86-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:78:17-47
+87            android:screenOrientation="portrait" />
+87-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:79:17-53
+88        <activity
+88-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:80:9-84:55
+89            android:name="com.example.musicplayer.activity.ThemeActivity"
+89-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:81:17-55
+90            android:label="@string/theme_center"
+90-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:82:17-53
+91            android:launchMode="singleTask"
+91-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:83:17-48
+92            android:screenOrientation="portrait" />
+92-->E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:84:17-53
+93    </application>
+94
+95</manifest>

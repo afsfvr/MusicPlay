@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/delete_all"
+          android:title="删除所有音乐"
+          android:icon="@drawable/delete_white"
+          app:showAsAction="always"/>
+    <item android:id="@+id/add_dir"
+          android:title="添加文件夹"
+          android:icon="@drawable/folder"
+          app:showAsAction="always"/>
+    <item android:id="@+id/scan_local_menu"
+          android:title="扫描"
+          android:icon="@drawable/scan_menu"
+          app:showAsAction="always"/>
+</menu>

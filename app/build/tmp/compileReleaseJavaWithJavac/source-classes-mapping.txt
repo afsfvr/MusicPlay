@@ -1,0 +1,189 @@
+com/example/musicplayer/fragment/PlayBarFragment.java
+ com.example.musicplayer.fragment.PlayBarFragment
+ com.example.musicplayer.fragment.PlayBarFragment$1
+ com.example.musicplayer.fragment.PlayBarFragment$HomeReceiver
+com/example/musicplayer/adapter/ChooseDirAdapter.java
+ com.example.musicplayer.adapter.ChooseDirAdapter
+ com.example.musicplayer.adapter.ChooseDirAdapter$ViewHolder
+com/example/musicplayer/util/CustomAttrValueUtil.java
+ com.example.musicplayer.util.CustomAttrValueUtil
+com/example/musicplayer/activity/BaseActivity.java
+ com.example.musicplayer.activity.BaseActivity
+com/example/musicplayer/activity/PlayBarBaseActivity.java
+ com.example.musicplayer.activity.PlayBarBaseActivity
+com/example/musicplayer/activity/ChooseDirActivity.java
+ com.example.musicplayer.activity.ChooseDirActivity
+ com.example.musicplayer.activity.ChooseDirActivity$1
+com/example/musicplayer/util/MyMusicUtil.java
+ com.example.musicplayer.util.MyMusicUtil
+com/example/musicplayer/util/SelectorUtil.java
+ com.example.musicplayer.util.SelectorUtil
+com/example/musicplayer/entity/FolderInfo.java
+ com.example.musicplayer.entity.FolderInfo
+ com.example.musicplayer.entity.FolderInfo$1
+com/example/musicplayer/entity/PlayListInfo.java
+ com.example.musicplayer.entity.PlayListInfo
+ com.example.musicplayer.entity.PlayListInfo$1
+com/example/musicplayer/activity/LastMyloveActivity.java
+ com.example.musicplayer.activity.LastMyloveActivity
+ com.example.musicplayer.activity.LastMyloveActivity$1
+ com.example.musicplayer.activity.LastMyloveActivity$UpdateReceiver
+com/example/musicplayer/util/Constant.java
+ com.example.musicplayer.util.Constant
+com/example/musicplayer/fragment/SingleFragment.java
+ com.example.musicplayer.fragment.SingleFragment
+ com.example.musicplayer.fragment.SingleFragment$1
+ com.example.musicplayer.fragment.SingleFragment$2
+ com.example.musicplayer.fragment.SingleFragment$UpdateReceiver
+com/example/musicplayer/adapter/HomeListViewAdapter.java
+ com.example.musicplayer.adapter.HomeListViewAdapter
+ com.example.musicplayer.adapter.HomeListViewAdapter$1
+ com.example.musicplayer.adapter.HomeListViewAdapter$2
+ com.example.musicplayer.adapter.HomeListViewAdapter$Holder
+com/example/musicplayer/activity/HomeActivity.java
+ com.example.musicplayer.activity.HomeActivity
+ com.example.musicplayer.activity.HomeActivity$1
+ com.example.musicplayer.activity.HomeActivity$FloatingReceiver
+com/example/musicplayer/entity/ThemeInfo.java
+ com.example.musicplayer.entity.ThemeInfo
+ com.example.musicplayer.entity.ThemeInfo$1
+com/example/musicplayer/database/DBManager.java
+ com.example.musicplayer.database.DBManager
+com/example/musicplayer/entity/SingerInfo.java
+ com.example.musicplayer.entity.SingerInfo
+ com.example.musicplayer.entity.SingerInfo$1
+com/example/musicplayer/view/AddPlaylistWindow.java
+ com.example.musicplayer.view.AddPlaylistWindow
+ com.example.musicplayer.view.AddPlaylistWindow$1
+ com.example.musicplayer.view.AddPlaylistWindow$2
+ com.example.musicplayer.view.AddPlaylistWindow$3
+ com.example.musicplayer.view.AddPlaylistWindow$Adapter
+ com.example.musicplayer.view.AddPlaylistWindow$Adapter$1
+ com.example.musicplayer.view.AddPlaylistWindow$Adapter$Holder
+com/example/musicplayer/activity/PlaylistActivity.java
+ com.example.musicplayer.activity.PlaylistActivity
+ com.example.musicplayer.activity.PlaylistActivity$1
+ com.example.musicplayer.activity.PlaylistActivity$2
+ com.example.musicplayer.activity.PlaylistActivity$3
+ com.example.musicplayer.activity.PlaylistActivity$UpdateReceiver
+com/example/musicplayer/adapter/AlbumAdapter.java
+ com.example.musicplayer.adapter.AlbumAdapter
+ com.example.musicplayer.adapter.AlbumAdapter$1
+ com.example.musicplayer.adapter.AlbumAdapter$OnItemClickListener
+ com.example.musicplayer.adapter.AlbumAdapter$ViewHolder
+com/example/musicplayer/adapter/DividerItemDecoration.java
+ com.example.musicplayer.adapter.DividerItemDecoration
+com/example/musicplayer/view/ScanView.java
+ com.example.musicplayer.view.ScanView
+ com.example.musicplayer.view.ScanView$ScanThread
+com/example/musicplayer/view/LyricView.java
+ com.example.musicplayer.view.LyricView
+ com.example.musicplayer.view.LyricView$LrcTask
+ com.example.musicplayer.view.LyricView$OnClickListener
+com/example/musicplayer/activity/PlayActivity.java
+ com.example.musicplayer.activity.PlayActivity
+ com.example.musicplayer.activity.PlayActivity$1
+ com.example.musicplayer.activity.PlayActivity$2
+ com.example.musicplayer.activity.PlayActivity$3
+ com.example.musicplayer.activity.PlayActivity$PlayReceiver
+com/example/musicplayer/receiver/PlayerManagerReceiver.java
+ com.example.musicplayer.receiver.PlayerManagerReceiver
+com/example/musicplayer/adapter/FolderAdapter.java
+ com.example.musicplayer.adapter.FolderAdapter
+ com.example.musicplayer.adapter.FolderAdapter$OnItemClickListener
+ com.example.musicplayer.adapter.FolderAdapter$ViewHolder
+com/example/musicplayer/entity/AlbumInfo.java
+ com.example.musicplayer.entity.AlbumInfo
+ com.example.musicplayer.entity.AlbumInfo$1
+com/example/musicplayer/util/MyApplication.java
+ com.example.musicplayer.util.MyApplication
+com/example/musicplayer/entity/LrcRow.java
+ com.example.musicplayer.entity.LrcRow
+com/example/musicplayer/view/MusicPopMenuWindow.java
+ com.example.musicplayer.view.MusicPopMenuWindow
+ com.example.musicplayer.view.MusicPopMenuWindow$1
+ com.example.musicplayer.view.MusicPopMenuWindow$2
+ com.example.musicplayer.view.MusicPopMenuWindow$3
+ com.example.musicplayer.view.MusicPopMenuWindow$OnDeleteUpdateListener
+com/example/musicplayer/util/ShutdownThread.java
+ com.example.musicplayer.util.ShutdownThread
+com/example/musicplayer/view/CustomDividerView.java
+ com.example.musicplayer.view.CustomDividerView
+com/example/musicplayer/BuildConfig.java
+ com.example.musicplayer.BuildConfig
+com/example/musicplayer/adapter/RecyclerViewAdapter.java
+ com.example.musicplayer.adapter.RecyclerViewAdapter
+ com.example.musicplayer.adapter.RecyclerViewAdapter$OnItemClickListener
+ com.example.musicplayer.adapter.RecyclerViewAdapter$ViewHolder
+com/example/musicplayer/fragment/CustomFragment.java
+ com.example.musicplayer.fragment.CustomFragment
+com/example/musicplayer/view/PlayingPopWindow.java
+ com.example.musicplayer.view.PlayingPopWindow
+ com.example.musicplayer.view.PlayingPopWindow$1
+ com.example.musicplayer.view.PlayingPopWindow$2
+ com.example.musicplayer.view.PlayingPopWindow$Adapter
+ com.example.musicplayer.view.PlayingPopWindow$Adapter$1
+ com.example.musicplayer.view.PlayingPopWindow$Adapter$ViewHolder
+com/example/musicplayer/fragment/SingerFragment.java
+ com.example.musicplayer.fragment.SingerFragment
+ com.example.musicplayer.fragment.SingerFragment$1
+com/example/musicplayer/fragment/AlbumFragment.java
+ com.example.musicplayer.fragment.AlbumFragment
+ com.example.musicplayer.fragment.AlbumFragment$1
+com/example/musicplayer/activity/ThemeActivity.java
+ com.example.musicplayer.activity.ThemeActivity
+ com.example.musicplayer.activity.ThemeActivity$ThemeAdapter
+ com.example.musicplayer.activity.ThemeActivity$ThemeAdapter$ViewHolder
+com/example/musicplayer/fragment/FolderFragment.java
+ com.example.musicplayer.fragment.FolderFragment
+ com.example.musicplayer.fragment.FolderFragment$1
+com/example/musicplayer/util/UpdateUIThread.java
+ com.example.musicplayer.util.UpdateUIThread
+com/example/musicplayer/adapter/PlaylistAdapter.java
+ com.example.musicplayer.adapter.PlaylistAdapter
+ com.example.musicplayer.adapter.PlaylistAdapter$OnItemClickListener
+ com.example.musicplayer.adapter.PlaylistAdapter$ViewHolder
+com/example/musicplayer/receiver/HeadsetReceiver.java
+ com.example.musicplayer.receiver.HeadsetReceiver
+ com.example.musicplayer.receiver.HeadsetReceiver$HeadsetTimerTask
+com/example/musicplayer/util/ChineseToEnglish.java
+ com.example.musicplayer.util.ChineseToEnglish
+com/example/musicplayer/activity/LocalMusicActivity.java
+ com.example.musicplayer.activity.LocalMusicActivity
+ com.example.musicplayer.activity.LocalMusicActivity$MyAdapter
+com/example/musicplayer/util/LogHelper.java
+ com.example.musicplayer.util.LogHelper
+com/example/musicplayer/activity/ModelActivity.java
+ com.example.musicplayer.activity.ModelActivity
+ com.example.musicplayer.activity.ModelActivity$1
+ com.example.musicplayer.activity.ModelActivity$2
+ com.example.musicplayer.activity.ModelActivity$3
+ com.example.musicplayer.activity.ModelActivity$ModelAdapter
+ com.example.musicplayer.activity.ModelActivity$ModelAdapter$1
+ com.example.musicplayer.activity.ModelActivity$ModelAdapter$2
+ com.example.musicplayer.activity.ModelActivity$ModelAdapter$ViewHolder
+ com.example.musicplayer.activity.ModelActivity$OnItemClickListener
+ com.example.musicplayer.activity.ModelActivity$UpdateReceiver
+com/example/musicplayer/activity/ScanActivity.java
+ com.example.musicplayer.activity.ScanActivity
+ com.example.musicplayer.activity.ScanActivity$1
+ com.example.musicplayer.activity.ScanActivity$2
+com/example/musicplayer/view/MyViewPager.java
+ com.example.musicplayer.view.MyViewPager
+com/example/musicplayer/activity/WelcomeActivity.java
+ com.example.musicplayer.activity.WelcomeActivity
+ com.example.musicplayer.activity.WelcomeActivity$1
+com/example/musicplayer/database/DatabaseHelper.java
+ com.example.musicplayer.database.DatabaseHelper
+com/example/musicplayer/service/MusicPlayerService.java
+ com.example.musicplayer.service.MusicPlayerService
+com/example/musicplayer/adapter/SingerAdapter.java
+ com.example.musicplayer.adapter.SingerAdapter
+ com.example.musicplayer.adapter.SingerAdapter$OnItemClickListener
+ com.example.musicplayer.adapter.SingerAdapter$ViewHolder
+com/example/musicplayer/entity/MusicInfo.java
+ com.example.musicplayer.entity.MusicInfo
+ com.example.musicplayer.entity.MusicInfo$1
+com/example/musicplayer/view/SideBar.java
+ com.example.musicplayer.view.SideBar
+ com.example.musicplayer.view.SideBar$OnTouchingLetterChangedListener

@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\09e08a498adf0416cdf5a14006257456\jetified-glide-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\b18d3566fd80a4e12d846ca5c054e5e4\jetified-roundedimageview-2.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.mcxtzhang:SwipeDelMenuLayout:V1.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\8ad3945a4ccfb6e9b2b289933de1829e\jetified-SwipeDelMenuLayout-V1.3.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\b9ff5127a43bdf988738c47a297ac292\jetified-gifdecoder-4.14.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\android\.gradle\caches\transforms-2\files-2.1\3703f1f33ef9fc0bc7ffcf1df97ef37e\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\android\.gradle\caches\transforms-2\files-2.1\c64e87be378acb9e5904c0f93574e031\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] D:\android\.gradle\caches\transforms-2\files-2.1\b5de9753f7aeb8da9cdfba74ef245a89\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\6f5c322ced54a793b69129742398adbb\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\a87f3b274ad0e924fa17fd148bc67c2e\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\2b5ad10827d6548d0c25f07df7b5388e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\ed3d8d0145f049ed7cd5529e8243c25d\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\907d9e6d9aac9b89ad1e9549bdefc10b\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\30092b50b5d3d953ed961de55bda8cca\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:3:11-44
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:8:22-75
+application
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:10:5-85:19
+MERGED from [com.github.bumptech.glide:glide:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\09e08a498adf0416cdf5a14006257456\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\09e08a498adf0416cdf5a14006257456\jetified-glide-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.mcxtzhang:SwipeDelMenuLayout:V1.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\8ad3945a4ccfb6e9b2b289933de1829e\jetified-SwipeDelMenuLayout-V1.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.github.mcxtzhang:SwipeDelMenuLayout:V1.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\8ad3945a4ccfb6e9b2b289933de1829e\jetified-SwipeDelMenuLayout-V1.3.0\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\b9ff5127a43bdf988738c47a297ac292\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\b9ff5127a43bdf988738c47a297ac292\jetified-gifdecoder-4.14.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:16:13-49
+	android:requestLegacyExternalStorage
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:15:13-56
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:17:13-39
+	android:label
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:14:13-45
+	android:icon
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:13:13-47
+	android:allowBackup
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:12:13-39
+	android:theme
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:18:13-44
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:11:13-47
+activity#com.example.musicplayer.activity.ChooseDirActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:19:9-20:20
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:19:19-61
+activity#com.example.musicplayer.activity.WelcomeActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:23:17-53
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:22:17-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.example.musicplayer.activity.HomeActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:30:9-33:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:33:17-53
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:32:17-48
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:31:17-54
+activity#com.example.musicplayer.activity.ScanActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:34:9-38:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:38:17-53
+	android:label
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:36:17-51
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:37:17-47
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:35:17-54
+activity#com.example.musicplayer.activity.LocalMusicActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:39:9-43:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:43:17-53
+	android:label
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:41:17-52
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:42:17-48
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:40:17-60
+service#com.example.musicplayer.service.MusicPlayerService
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:45:9-48:42
+	android:enabled
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:47:17-39
+	android:exported
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:48:17-40
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:46:17-59
+receiver#com.example.musicplayer.receiver.PlayerManagerReceiver
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:50:9-53:42
+	android:enabled
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:52:17-39
+	android:exported
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:53:17-40
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:51:17-63
+receiver#com.example.musicplayer.receiver.HeadsetReceiver
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:54:9-61:20
+	android:enabled
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:56:17-39
+	android:exported
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:57:17-40
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:55:17-57
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:58:13-60:29
+	android:priority
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:58:28-57
+action#android.intent.action.MEDIA_BUTTON
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:59:25-74
+activity#com.example.musicplayer.activity.PlayActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:63:9-67:63
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:66:17-53
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:65:17-47
+	android:theme
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:67:17-61
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:64:17-54
+activity#com.example.musicplayer.activity.LastMyloveActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:68:9-71:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:71:17-53
+	android:label
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:70:17-50
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:69:17-60
+activity#com.example.musicplayer.activity.PlaylistActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:72:9-75:63
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:74:17-53
+	android:theme
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:75:17-61
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:73:17-58
+activity#com.example.musicplayer.activity.ModelActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:76:9-79:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:79:17-53
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:78:17-47
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:77:17-55
+activity#com.example.musicplayer.activity.ThemeActivity
+ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:80:9-84:55
+	android:screenOrientation
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:84:17-53
+	android:label
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:82:17-53
+	android:launchMode
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:83:17-48
+	android:name
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml:81:17-55
+uses-sdk
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+MERGED from [com.github.bumptech.glide:glide:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\09e08a498adf0416cdf5a14006257456\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\09e08a498adf0416cdf5a14006257456\jetified-glide-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\b18d3566fd80a4e12d846ca5c054e5e4\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\b18d3566fd80a4e12d846ca5c054e5e4\jetified-roundedimageview-2.3.0\AndroidManifest.xml:7:5-43
+MERGED from [com.github.mcxtzhang:SwipeDelMenuLayout:V1.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\8ad3945a4ccfb6e9b2b289933de1829e\jetified-SwipeDelMenuLayout-V1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mcxtzhang:SwipeDelMenuLayout:V1.3.0] D:\android\.gradle\caches\transforms-2\files-2.1\8ad3945a4ccfb6e9b2b289933de1829e\jetified-SwipeDelMenuLayout-V1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c9350c4470b6f4895016aaf418fed985\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\b9ff5127a43bdf988738c47a297ac292\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] D:\android\.gradle\caches\transforms-2\files-2.1\b9ff5127a43bdf988738c47a297ac292\jetified-gifdecoder-4.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\780dca39713ff2fcf4eadcaf494ac982\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1fa276bd61947c3e74ed195b3ad0a13b\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\android\.gradle\caches\transforms-2\files-2.1\3703f1f33ef9fc0bc7ffcf1df97ef37e\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\android\.gradle\caches\transforms-2\files-2.1\3703f1f33ef9fc0bc7ffcf1df97ef37e\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\82e63553b4b022cfff1711ae9819aad4\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\89148e3dbb2482b98d2c6649d887f30f\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\android\.gradle\caches\transforms-2\files-2.1\c64e87be378acb9e5904c0f93574e031\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] D:\android\.gradle\caches\transforms-2\files-2.1\c64e87be378acb9e5904c0f93574e031\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\android\.gradle\caches\transforms-2\files-2.1\b5de9753f7aeb8da9cdfba74ef245a89\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] D:\android\.gradle\caches\transforms-2\files-2.1\b5de9753f7aeb8da9cdfba74ef245a89\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\6f5c322ced54a793b69129742398adbb\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\6f5c322ced54a793b69129742398adbb\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3db056b7b2a67d9700cd1094de7f7779\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\f52122426ed85128097908a2e58f6328\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\43d28a6cb6aa3ef105d8e111681e9af4\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\1296f14384128f2399538597cc1f5274\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\a8ecbda6ffad5e6f54ae110042f6865e\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\1aafd20561bc3ee9f58c28dfa8215062\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\087418591f402220f122a32114fbea96\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\3a40d00373143d317b2bee08071df362\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\727f4567341fcf59ba6ec2fbb4290436\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\0b21398ec4672209e12f9d44aaf124af\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\c85e1f195321245fafe1a599b5dddf47\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\da4859f2c8e5d53f282ea268af4c5fee\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\20725fa20214e86eb8fa55394d5d409e\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\247f3bbc11fc5188f3d3375e9cc247ac\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] D:\android\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\fa40148eab14a6d2386ba091992d3749\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\a87f3b274ad0e924fa17fd148bc67c2e\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\a87f3b274ad0e924fa17fd148bc67c2e\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\2b5ad10827d6548d0c25f07df7b5388e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\2b5ad10827d6548d0c25f07df7b5388e\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\ed3d8d0145f049ed7cd5529e8243c25d\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\ed3d8d0145f049ed7cd5529e8243c25d\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\2c4abb3c9f84da22a9da11e175a85c23\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\129d7c6539a600a7346451cc911530ca\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\907d9e6d9aac9b89ad1e9549bdefc10b\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\907d9e6d9aac9b89ad1e9549bdefc10b\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\aaff256ac919a45448a380ca9a0003ca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\30092b50b5d3d953ed961de55bda8cca\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] D:\android\.gradle\caches\transforms-2\files-2.1\30092b50b5d3d953ed961de55bda8cca\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\android\.gradle\caches\transforms-2\files-2.1\8459cf74267acbf7bf85dca1ef465d1f\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a22fab001772e3213fd3f87fdd80b5c6\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\7814cceeb7ac44ad46459a3c3c62875b\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\40996d6039fa2fb22354b30f3d767665\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] D:\android\.gradle\caches\transforms-2\files-2.1\a77c810a56173ccf6fb339f045a6aacd\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		ADDED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from E:\JAVA\MusicPlayer\app\src\main\AndroidManifest.xml

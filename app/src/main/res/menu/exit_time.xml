@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/exit_none"
+                android:title="不开启"/>
+        <item
+                android:id="@+id/exit_10"
+                android:title="10分钟"/>
+        <item
+                android:id="@+id/exit_20"
+                android:title="20分钟"/>
+        <item
+                android:id="@+id/exit_30"
+                android:title="30分钟"/>
+        <item
+                android:id="@+id/exit_45"
+                android:title="45分钟"/>
+        <item
+                android:id="@+id/exit_60"
+                android:title="60分钟"/>
+        <item
+                android:id="@+id/exit_custom"
+                android:title="自定义"/>
+    </group>
+</menu>

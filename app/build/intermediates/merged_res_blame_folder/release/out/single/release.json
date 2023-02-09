@@ -1,0 +1,598 @@
+[
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_album.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\album.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_singer.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\singer.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_thumb_normal.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\thumb_normal.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_pop_window_menu.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\pop_window_menu.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_single.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\fragment_single.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_choose_dir.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_choose_dir.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_btn_play.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_btn_play.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_folder.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\folder.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_random.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\random.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_sleep.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\nav_sleep.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_create_playlist.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\dialog_create_playlist.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_selector_layout.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-v24\\selector_layout.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_playbar_menu_window.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\playbar_menu_window.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_play.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_play_btn_next_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_btn_next_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_drawer_menu.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_menu.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_left_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\in_from_left_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_model.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_nav_header.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_seekbar_style.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_letter_pre.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\shape_letter_pre.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_never_menu.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_never_menu.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_thumb_png.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\thumb_png.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_notification_icon.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\notification_icon.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_divider_home_list.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\divider_home_list.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_menu.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_next_play_bar.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_next_play_bar.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_never_menu.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\never_menu.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_divider_bg.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\divider_bg.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_scan.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_random.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_random.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_pause_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_in_from_right_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\in_from_right_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_welcome.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_out_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\out_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_phone.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\phone.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_scan_menu.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\scan_menu.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_theme_btn_day.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\shape_theme_btn_day.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_video.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\nav_video.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_btn_prev.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_btn_prev.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pre_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\pre_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_btn_play.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_btn_play.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_btn_prev.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_btn_prev.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_down_arror.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\down_arror.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_logout.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\nav_logout.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_home.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_love_hover.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\love_hover.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_delete_file.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\dialog_delete_file.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_seekbar_normol.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_normol.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_delete_white.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\delete_white.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_night.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\nav_night.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_playlist.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_playlist.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_btn_play_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_btn_play_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\menu_local_music_menu.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\menu\\local_music_menu.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_choose_dir_item.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\choose_dir_item.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_cancel.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\cancel.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pause_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\pause_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_layout_night.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_layout_night.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_play_btn_next_selector.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\play_btn_next_selector.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_btn_play_pause.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_btn_play_pause.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_theme_btn_night.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\shape_theme_btn_night.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_love.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\love.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_pause_bar.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_pause_bar.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_add_menu.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\add_menu.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_seekbar_progress.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\seekbar_progress.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_pause.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_pause.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_theme.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_theme.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_item_playbar_rv_list.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\item_playbar_rv_list.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_btn_pause.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_btn_pause.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_shape_mylove.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\shape_mylove.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_last_mylove.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_last_mylove.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_local_model_rv_item.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\local_model_rv_item.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_next_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\next_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_file.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\file.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_next.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\next.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pre.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\pre.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_bar.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_bar.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_pop_exit.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_pop_add_playlist.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\pop_add_playlist.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_singer.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\fragment_singer.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_layout.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_layout.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_random_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_random_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_local_music_item.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\local_music_item.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_playlist.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\bg_playlist.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_play_list_view_item.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\play_list_view_item.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_sidebar_background.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\menu_exit_time.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\menu\\exit_time.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_delete.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_circle_shape.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\circle_shape.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_btn_prev_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_btn_prev_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_disc.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\bg_disc.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_play_btn_next.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\ic_play_btn_next.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_delete_playlist.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\dialog_delete_playlist.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_single_cycle_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\single_cycle_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_music_note.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\music_note.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_recently.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\recently.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_play_mode_level_list.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\play_mode_level_list.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_right_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\out_to_right_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_mode_random.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_mode_random.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_custom.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_pop_enter.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_random_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\random_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_scan_btn.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_scan_btn.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_out_to_left_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\out_to_left_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_pause.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\pause.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_shadow_view.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\shadow_view.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_singel_cycle_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_singel_cycle_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_mode_single_cycle.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_mode_single_cycle.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_arrow_down.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_down.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_my_love_toast.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\my_love_toast.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_playbar.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\fragment_playbar.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_add.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_bg_play.jpg.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\bg_play.jpg"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_change_theme_item.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\change_theme_item.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_thumb_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\thumb_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_nav_theme.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\nav_theme.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_all_cycle.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\all_cycle.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_cycle.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_cycle.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_local_music.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_local_music.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_play_mode_cycle.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_play_mode_cycle.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\menu_nav_menu.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_menu_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\menu_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_menu.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_menu.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_bottom_bar_shape.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\bottom_bar_shape.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\anim_start_anim.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\anim\\start_anim.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_cycle_pressed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_cycle_pressed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_arrow_right.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_notification.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_tick.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\tick.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_playlist.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\playlist.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_single_cycle.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\single_cycle.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_all_cycle_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\all_cycle_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_speed.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\speed.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_album.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\fragment_album.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_pause_bar.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_pause_bar.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_mode_singel_cycle.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\play_mode_singel_cycle.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_layout_day.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable\\selector_layout_day.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_never_menu_press.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\never_menu_press.png"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_exit.xml.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\layout\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_disc.png.flat",
+        "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\drawable-xxhdpi\\disc.png"
+    }
+]

@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\JAVA\\MusicPlayer\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\android\\.gradle\\caches\\transforms-2\\files-2.1\\c9350c4470b6f4895016aaf418fed985\\material-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,587,689,803,931,1047,1169,1305,1425,1559,1679,1791,1917,2055,2179,2309,2431,2569,2685",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "138,262,364,466,582,684,798,926,1042,1164,1300,1420,1554,1674,1786,1912,2050,2174,2304,2426,2564,2680,2800"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,46,47,48,49,50,51,52",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1038,1126,1250,1352,1454,1570,1672,1786,1914,2030,2152,2288,2408,2542,2662,2774,3771,3909,4033,4163,4285,4423,4539",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "1121,1245,1347,1449,1565,1667,1781,1909,2025,2147,2283,2403,2537,2657,2769,2895,3904,4028,4158,4280,4418,4534,4654"
+                    }
+                },
+                {
+                    "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\values-night\\colors.xml",
+                    "from": {
+                        "startLines": "4,6,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "79,146,197,249,302,356",
+                        "endColumns": "43,49,51,52,53,52",
+                        "endOffsets": "118,191,244,297,351,404"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "100,144,194,246,299,353",
+                        "endColumns": "43,49,51,52,53,52",
+                        "endOffsets": "139,189,241,294,348,401"
+                    }
+                },
+                {
+                    "source": "D:\\android\\.gradle\\caches\\transforms-2\\files-2.1\\780dca39713ff2fcf4eadcaf494ac982\\appcompat-1.1.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,13,14,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "406,476,560,644,740,842,944,3682",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "471,555,639,735,837,939,1033,3766"
+                    }
+                },
+                {
+                    "source": "E:\\JAVA\\MusicPlayer\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "894"
+                    },
+                    "to": {
+                        "startLines": "31",
+                        "startColumns": "4",
+                        "startOffsets": "2900",
+                        "endLines": "44",
+                        "endColumns": "12",
+                        "endOffsets": "3677"
+                    }
+                }
+            ]
+        }
+    ]
+}
